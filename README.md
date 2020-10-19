@@ -31,4 +31,4 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4 - Bahasa Pemrograman.
 `git config --global user.name "masukan nama anda"` <br>
 `git config --global user.email "masukan email anda"` <br>
 
-![Git Config](gambar1/)GitConfig.png)
+![Git Config](gambar1/GitConfig.png)
