@@ -69,3 +69,11 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4 - Bahasa Pemrograman.
 * Setelah *Link URL* git kita *tercopy*, Silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan *mendownload* Repository dari Github ke lokal. Kemudian Klik Kanan, Pilih **Git Bash Here.** <br>
 
 ![GitBash](gambar1/GitBash.png)
+
+* *Pop Up* Command Prompt **(CMD)** akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan *syntax* berikut :
+
+`git clone [URL] pada contohnya, saya akan memasukan *git clone*` <br>
+https://github.com/febroherdyanto/LatihanVCS.git
+
+![git commit](gambar1/GitCommit.png) <br>
+
