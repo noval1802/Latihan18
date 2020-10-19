@@ -32,3 +32,10 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4 - Bahasa Pemrograman.
 `git config --global user.email "masukan email anda"` <br>
 
 ![Git Config](gambar1/GitConfig.png)
+
+* Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :
+
+`git config --global user.name` <br>
+`git config --global user.email` <br>
+
+![GitUser](gambar1/GitUser.png)
