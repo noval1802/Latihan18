@@ -1,6 +1,8 @@
+![logoUPB](gambar1/logo.png)
+
 # Latihan18
 
-![logoUPB](gambar1/logo.png)
+Repository ini dibuat untuk memenuhi tugas Pertemuan 4 - Bahasa Pemrograman.
 
 **NAMA : Abdul Aziz Anaoval** 
 
