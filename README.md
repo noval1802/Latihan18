@@ -1,7 +1,9 @@
 # Latihan18
 
-NAMA : Abdul Aziz Anaoval 
+![logoUPB](gambar1/logo.png)
 
-NIM : 312010049
+**NAMA : Abdul Aziz Anaoval** 
 
-KELAS : TI.20.A.1
+**NIM : 312010049**
+
+**KELAS : TI.20.A.1**
