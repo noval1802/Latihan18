@@ -108,4 +108,8 @@ Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote. <br>
 
-![hasil yang sudah di buat](gambar1/repositori.png)
+![hasil yang sudah di buat](gambar1/repositori.png) <br>
+
+### Sekian TERIMAKSIH. 
+
+Semoga bisa di fahami:)
