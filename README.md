@@ -72,8 +72,13 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4 - Bahasa Pemrograman.
 
 * *Pop Up* Command Prompt **(CMD)** akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan *syntax* berikut :
 
-`git clone [URL] pada contohnya, saya akan memasukan *git clone*` <br>
-https://github.com/febroherdyanto/LatihanVCS.git
+`git clone [URL] pada contohnya, saya akan memasukan git clone` <br>
+https://github.com/noval1802/Latihan18.git
 
 ![git commit](gambar1/GitCommit.png) <br>
 
+* Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu *LatihanVCS* dengan mengetikkan *syntax* berikut :
+
+> `cd Latihan18/`
+
+![cd Latihan18](gambar1/cd.png)
