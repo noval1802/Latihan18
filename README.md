@@ -112,4 +112,6 @@ Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+
 
 ### Sekian TERIMAKSIH. 
 
+![CAT](gambar1/cat_black_breed_russian_blue_eyes_green_eyes_black_background_81774_1280x720.jpg)
+
 Semoga bisa di fahami:)
