@@ -87,4 +87,10 @@ https://github.com/noval1802/Latihan18.git
 
 ![readme](gambar1/readme.png) <br>
 
-Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara CTRL+S atau File -> Save
+Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+S** atau **File** -> **Save** <br>
+
+* Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash **(CMD)**. Ketik pada Git Bash seperti berikut ini : <br>
+
+> `git add .`
+
+![git add](gambar1/Gitadd)
