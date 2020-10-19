@@ -83,4 +83,8 @@ https://github.com/noval1802/Latihan18.git
 
 ![cd Latihan18](gambar1/cd.png)
 
-> *  Saat ini kita sudah masuk kedalam folder LatihanVCS, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor (Sublime Text, Notepad, Notepad++, Visual Studio Code). Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : 
+* Saat ini kita sudah masuk kedalam folder *LatihanVCS*, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor *(Sublime Text, Notepad, Notepad++, Visual Studio Code)*. Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : [click here](https://guides.github.com/features/mastering-markdown/) <br>
+
+![readme](gambar1/readme.png) <br>
+
+Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara CTRL+S atau File -> Save
