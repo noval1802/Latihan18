@@ -12,6 +12,10 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4 - Bahasa Pemrograman.
 
 ## Langkah-Langkah Penggunaan Git
 
-* Dwonload Git terlebih dahulu, dengan link berikut ini : [click-here](https://git-scm.com)
+* Dwonload Git terlebih dahulu, dengan link berikut ini : [click here](https://git-scm.com)
 
 ![gitscm](gambar1/GitScm.png)
+
+* Setelah file terdownload, silahkan lakukan instalasi dengan referensi berikut ini :[Git Installation Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+![installing git](gambar1/installing.png)
