@@ -38,4 +38,10 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4 - Bahasa Pemrograman.
 `git config --global user.name` <br>
 `git config --global user.email` <br>
 
-![GitUser](gambar1/GitUser.png)
+![Git User](gambar1/GitUser.png)
+
+* Buat akun di **GitHub**,seperti contoh dibawah ini.Dan lakukan Verifikasi akun melalui email yang sudah terdaftar. <br>
+
+* Jika akun **GitHub** sudah selesai dibuat dan di verifikasi,proses selanjutnya silahkan buat Repository seperti gambar dibawah ini: <br>
+
+![Nama Repositori](NamaRepositori.png)
