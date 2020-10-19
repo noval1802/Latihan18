@@ -44,4 +44,8 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4 - Bahasa Pemrograman.
 
 * Jika akun **GitHub** sudah selesai dibuat dan di verifikasi,proses selanjutnya silahkan buat Repository seperti gambar dibawah ini: <br>
 
-![Nama Repositori](NamaRepositori.png)
+![Nama Repositori](gambar1/NamaRepositori.png)
+
+* Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini : <br>
+
+![hasil repositori yang di buat](gambar1/hasilfile.png)
