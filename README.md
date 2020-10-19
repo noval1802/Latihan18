@@ -14,4 +14,4 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4 - Bahasa Pemrograman.
 
 * Dwonload Git terlebih dahulu, dengan link berikut ini : [click-here](https://git-scm.com)
 
-![dwonloadGITSCM](gambar1/git-csm)
+![git-scm](gambar1/git-csm)
