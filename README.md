@@ -24,4 +24,4 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4 - Bahasa Pemrograman.
 
 `git --version` <br>
 
-![git verion](gambar1/GitVerison.png)
+![GitVersion](gambar1/GitVersion.png)
