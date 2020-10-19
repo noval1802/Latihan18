@@ -28,15 +28,15 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4 - Bahasa Pemrograman.
 
 * Jika muncul tampilan **git version**, berarti Git sudah **berhasil di install** dan **bisa digunakan**. Langkah pertama kita harus **mengkonfigurasi user nama dan email di Git**, dengan mengetikkan syntax berikut : <br>
 
-`git config --global user.name "masukan nama anda"` <br>
-`git config --global user.email "masukan email anda"` <br>
+> `git config --global user.name "masukan nama anda"` <br>
+> `git config --global user.email "masukan email anda"` <br>
 
 ![Git Config](gambar1/GitConfig.png)
 
 * Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :
 
-`git config --global user.name` <br>
-`git config --global user.email` <br>
+> `git config --global user.name` <br>
+> `git config --global user.email` <br>
 
 ![Git User](gambar1/GitUser.png)
 
@@ -63,3 +63,5 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4 - Bahasa Pemrograman.
 ![hasil repositori yang di buat](gambar1/hasilfile.png)
 
 * Pembuatan akun dan repository pada Github telah selesai, saat ini akan kita lakukan untuk *me-remote* repository Github pada GitBash Lokal. Bagaimana caranya? Langkah pertama kita harus menyalin link *URL git* kita di Github, dengan cara tekan tombol **Code** lalu klik *Copy*.
+
+![kode link](gambar1/kode.png)
