@@ -10,13 +10,13 @@
 
 **KELAS : TI.20.A.1**
 
-## Langkah-Langkah Penggunaan Git
+## Langkah-langkah penggunaan git
 
 * Download Git terlebih dahulu, dengan link berikut ini : [click here](https://git-scm.com) <br>
 
 ![gitscm](gambar1/GitScm.png)
 
-* Setelah file terdownload, silahkan lakukan instalasi dengan referensi berikut ini :[Git Installation Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) <br>
+* Setelah file terdownload, silahkan lakukan instalasi dengan referensi berikut ini : [Git Installation Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) <br>
 
 ![installing git](gambar1/installing.png)
 
@@ -26,7 +26,7 @@
 
 ![GitVersion](gambar1/GitVersion.png)
 
-* Jika muncul tampilan **git version**, berarti Git sudah **berhasil di install** dan **bisa digunakan**. Langkah pertama kita harus **mengkonfigurasi user nama dan email di Git**, dengan mengetikkan syntax berikut : <br>
+* Jika muncul tampilan **git version**, berarti Git sudah **berhasil di install** dan **bisa digunakan**. Langkah pertama kita harus **mengkonfigurasi user nama** dan **email** di **Git**, dengan mengetikkan syntax berikut : <br>
 
 > `git config --global user.name "masukan nama anda"` <br>
 > `git config --global user.email "masukan email anda"` <br>
@@ -95,13 +95,14 @@ https://github.com/noval1802/Latihan18.git
 
 ![git add](gambar1/Gitadd.png)
 
-* Setelah selesai melakukan *git add* . langkah berikutnya kita akan melakukan *commit. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
+* Setelah selesai melakukan *git add* . langkah berikutnya kita akan melakukan *commit*. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
 
 `git commit "Update README.md"`
 
 ![git commit](gambar1/gitcommitR.png)
 
 * Git *commit* telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut : <br>
+
 `git push`
 
 ![gitpush](gambar1/GitPush.png)
@@ -110,8 +111,8 @@ https://github.com/noval1802/Latihan18.git
 
 ![hasil yang sudah di buat](gambar1/repositori.png) <br>
 
-### Sekian TERIMAKSIH. 
+# Sekian TERIMAKSIH. 
 
 ![CAT](gambar1/cat_black_breed_russian_blue_eyes_green_eyes_black_background_81774_1280x720.jpg)
 
-Semoga bisa di fahami:)
+## Semoga bisa di fahami:)
