@@ -12,7 +12,7 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4 - Bahasa Pemrograman.
 
 ## Langkah-Langkah Penggunaan Git
 
-* Dwonload Git terlebih dahulu, dengan link berikut ini : [click here](https://git-scm.com) <br>
+* Download Git terlebih dahulu, dengan link berikut ini : [click here](https://git-scm.com) <br>
 
 ![gitscm](gambar1/GitScm.png)
 
@@ -87,7 +87,7 @@ https://github.com/noval1802/Latihan18.git
 
 ![readme](gambar1/readme.png) <br>
 
-Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+S** atau **File** -> **Save** <br>
+* Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+S** atau **File** -> **Save** <br>
 
 * Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash **(CMD)**. Ketik pada Git Bash seperti berikut ini : <br>
 
