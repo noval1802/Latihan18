@@ -1,4 +1,4 @@
-![logoUPB](gambar1/logo.png)
+![logoUPB](tutorialgit/logo.png)
 
 # Latihan18
 
